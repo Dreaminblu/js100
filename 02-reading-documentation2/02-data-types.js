@@ -1,0 +1,12 @@
+// Without looking into your notes, try to remember which primitive data types are defined in JavaScript.
+// Then find this information on MDN.
+
+// 7
+
+// string
+// number
+// boolean
+// null
+// undefined
+// bingInt
+// symbol
