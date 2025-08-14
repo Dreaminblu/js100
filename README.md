@@ -1,2 +1,1 @@
-# js100
-JavaScript Basics
+Programming & Back-end Prep with JavaScript
